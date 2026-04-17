@@ -1,28 +1,57 @@
-<h1align="center">Xin chào 👋, tôi là Đính Vũ Đình</h1>
-<h3align="center">Một nhà phát triển fullstack đầy đam mê đến từ Việt Nam</h3>
+<h1 align="center">Xin chào 👋, tôi là Đính Vũ Đình</h1>
+<h3 align="center">Một Fullstack Developer đầy đam mê đến từ Việt Nam 🇻🇳</h3>
 
-- 🌱 Tôi hiện đang học **Đại học công nghệ thông tin và truyền thông Thái Nguyên**
-
-- 👯 Tôi đang muốn cộng tác trên **Web, Phần mềm**
-
-- 👨‍💻 Tất cả các dự án của tôi đều có tại [https://github.com/Diinh-Vu-IT](https://github.com/Diinh-Vu-IT)
-
-- 💬 Hỏi tôi về **C++, Java, Php, MySQL**
-
-- 📫 Cách liên hệ với tôi **vudinhdinh17122005@gmail.com**
-
-- 📄 Biết về trải nghiệm của tôi [https://github.com/Diinh-Vu-IT](https://github.com/Diinh-Vu-IT)
-
-- ⚡ Sự thật thú vị **Tôi nghĩ mình có tinh thần học hỏi, Chăm chỉ, chính kiến, đam mê tìm hiểu**
-
-<h3 align="left">Kết nối với tôi:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/ diinhvu17122005 tên url phù hợp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ diinhvu17122005 tên url phù hợp" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/vudiinh05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/vudiinh05" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/diinh.vu_05/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/diinh.vu_05/" height="30" width="40" /></a>
-<a <a href="https://www.youtube.com/c/https://www.youtube.com/channel/uccjj3ujb1f-zhsx5q2ec8pa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uccjj3ujb1f-zhsx5q2ec8pa" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/dinhvu05/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/dinhvu05/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Sinh+viên+CNTT+tại+ICTU;PHP+%7C+Laravel+Enthusiast;Đam+mê+Web+%26+IoT+SmartHome" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Ngôn ngữ và Công cụ:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> </p>
+---
+
+## 👨‍💻 Về bản thân
+
+- 🎓 Hiện đang là sinh viên ngành Công nghệ Thông tin tại **Đại học Công nghệ Thông tin và Truyền thông Thái Nguyên (ICTU)**.
+- 💡 Đam mê phát triển Web với hệ sinh thái **PHP (Laravel, CodeIgniter 4)** và thiết kế hệ thống phần mềm.
+- 🤖 Rất hứng thú với **IoT (ESP32, Arduino)** và việc tích hợp phần cứng - phần mềm.
+- 👯 Đang tìm kiếm cơ hội cộng tác trong các dự án **Web** và **Phần mềm**.
+- 💬 Hãy hỏi tôi về: **C++, Java, PHP, MySQL, thiết kế UML hoặc cách quản lý dự án với Jira!**
+- 📫 Liên hệ với tôi qua: **vudinhdinh17122005@gmail.com**
+- ⚡ Sự thật thú vị: *Luôn tò mò, chăm chỉ, có chính kiến và cực kỳ đam mê khám phá công nghệ mới.*
+
+---
+
+## 🛠 Ngôn ngữ và Công cụ
+
+<p align="left">
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/> </a>
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40"/> </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> </a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/> </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
+</p>
+
+---
+
+## 📊 Thống kê GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Diinh-Vu-IT&show_icons=true&theme=transparent&hide_border=true&title_color=2196F3&icon_color=2196F3" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diinh-Vu-IT&layout=compact&theme=transparent&hide_border=true&title_color=2196F3" alt="Top Languages" height="160"/>
+</p>
+
+---
+
+## 🌐 Kết nối với tôi
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/diinhvu17122005" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://www.facebook.com/vudiinh05" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/diinh.vu_05/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/channel/uccjj3ujb1f-zhsx5q2ec8pa" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
+  <a href="https://leetcode.com/u/dinhvu05/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
+</p>
